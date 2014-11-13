@@ -1,0 +1,32 @@
+#map_canvas {
+    border-width:3px;
+    border-style:solid;
+    width: 300px;
+    height: 300px;
+    border-color:#01DFD7;
+    background-color: #CCC;
+    border-radius:10px;
+    margin-top:40px;
+}
+  
+#legend {
+  	border-width:2px;
+  	border-radius:10px;
+   	border-style:solid;
+    background: white;
+    width:105px;
+    height:90px;
+    padding: 10px;
+width:50px;
+height:50px;
+}
+
+#legend h3 {
+    margin-top: 0;
+margin-left:20px;
+}
+         
+#legend img {
+    vertical-align: middle;
+margin-top:
+}
